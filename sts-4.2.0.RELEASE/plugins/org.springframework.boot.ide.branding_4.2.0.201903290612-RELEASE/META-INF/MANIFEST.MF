@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.springframework.boot.ide.branding;singleton:=
+ true
+Built-By: bamboo
+Require-Bundle: org.eclipse.ui,org.eclipse.equinox.p2.ui,org.eclipse.e
+ quinox.p2.ui.sdk,org.springsource.ide.eclipse.commons.core
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Import-Package: org.eclipse.core.runtime,org.eclipse.osgi.service.data
+ location,org.osgi.framework
+Bundle-Name: %pluginName
+Bundle-Version: 4.2.0.201903290612-RELEASE
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_45
+Eclipse-BundleShape: dir
+
+Name: about.properties
+SHA-256-Digest: RyrHvMubF8jjARXNjRgz75Kbm/1y+W/8C6BF/0V0ddc=
+
+Name: plugin_customization.ini
+SHA-256-Digest: hqBb0aClv5qNdMUs+0SHFnpNvLs+kUQxztzi7GFRmgg=
+
+Name: about.html
+SHA-256-Digest: 9FmmX7TxNsQ30IDDnR31qa+o/IaX9DTuqn6Rs9JTMLg=
+
+Name: plugin.xml
+SHA-256-Digest: 50gOTpMTDURBeA4M63d59KA6RmGWtHd2vgW1sLOMGzU=
+
+Name: sts4-16.png
+SHA-256-Digest: JK0a/56wmOG57bseMhyPETcxVEJ3RGekcqe0FKxkbtg=
+
+Name: splash.bmp
+SHA-256-Digest: GAjnqT3xub9Pyho9MRIMuB0fZ4GZ20OUTTak0e3zmko=
+
+Name: plugin_customization.properties
+SHA-256-Digest: A/uGgH9FTmH5GMOw5phyWR6oxrTAQvrZofHIufnNQ30=
+
+Name: sts4-32.png
+SHA-256-Digest: ZhdOnCKwe0SbE+GVH70paLUPa3BKOz/E3ZpmAz/OYaY=
+
+Name: sts4-128.png
+SHA-256-Digest: z9mFu8iZPRIv70kKzti67CR11u5+1+HDA2ufJyrCkzY=
+
+Name: sts4-48.png
+SHA-256-Digest: fj9xAVhJe1pMRzLVzXj34T4YplnQRmSBlNClGu6daos=
+
+Name: sts4-64.png
+SHA-256-Digest: hdUviEmyLQliOCHmUEdD6aIeBLwd4Lh5NYeoTC3xgb8=
+
+Name: about.ini
+SHA-256-Digest: v4mzF+8gVe8HV2XWadJqMIhfTnpA6T+kO16vTHsSXVA=
+
+Name: plugin.properties
+SHA-256-Digest: OlhD4sI3BNCpXnvSov7o+b4wLjuImvDg8beWS0hOWgo=
+
+Name: sts4-256.png
+SHA-256-Digest: fHjkUVCGOzI18LmM6m1o0yqHWY3Ayzn/uiN0qaQnmRs=
+

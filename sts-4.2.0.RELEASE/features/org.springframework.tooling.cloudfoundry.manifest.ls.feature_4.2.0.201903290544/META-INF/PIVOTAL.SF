@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: yFPe5n5rqGty/Bf1p47S9hBu0Oy4k
+ b9UogwAyZ/+pbA=
+SHA-256-Digest-Manifest: pUykbLtFg6BCmi9AVnRKmTySIKCbG4+WprST51as9GE=
+Created-By: 1.8.0_201 (Oracle Corporation)
+
+Name: p2.inf
+SHA-256-Digest: YVY22gVGFITptZrxbZcIvQ8p4aefJWhlE479WZFAbtU=
+
+Name: feature.xml
+SHA-256-Digest: hdBCIc+rnapsTiY1O/tM0br62V/n8Fe8+NN/N6tCqbA=
+
+Name: license.txt
+SHA-256-Digest: M/X2Ex0THYrGDZnVJZ0m74bK02vIJ/LxQqa7GFxr/ig=
+
+Name: feature.properties
+SHA-256-Digest: frXOkmBk7dxnlFfYPOqlVlze7NubNHeoMECAs5+soAo=
+
